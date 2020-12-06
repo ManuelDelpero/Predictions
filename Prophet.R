@@ -1,10 +1,9 @@
-setwd('C:/Users/Manuel/Desktop/Prophet')
 # Forecast using the Quantmod library and the Prophet algorithm
 #
 # copyright (c) - Manuel Delpero
 # first written december, 2020
 # 
-
+setwd('C:/Users/Manuel/Desktop/Prophet')
 library(prophet)
 library(quantmod) 
 
